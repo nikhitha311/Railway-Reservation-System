@@ -1,0 +1,5 @@
+Admin dashboard with charts
+ Email confirmation
+ Live train tracking UI 
+ Secure password hashing
+Deploy your site online
